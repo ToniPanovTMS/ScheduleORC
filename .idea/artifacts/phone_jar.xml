@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="phone:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/phone_jar</output-path>
+    <root id="archive" name="phone.jar">
+      <element id="module-output" name="phone" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.15.2/jsoup-1.15.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

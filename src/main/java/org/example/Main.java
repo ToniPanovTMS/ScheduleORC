@@ -17,6 +17,7 @@ import java.util.List;
 
 public class Main{
 
+
     static HashMap<String,Integer> Namber_of_phone = new HashMap<String, Integer>();
     static String separator = File.separator;
     static File parsing_of_table = new File("data"+separator+"debugging"+separator+"parsing_of_table.txt");

@@ -1,0 +1,16 @@
+ch-queue-mon-9-13.sh
+ch-queue-mon-13-17.sh
+ch-queue-mon-17-20.sh
+ch-queue-tue-9-13.sh
+ch-queue-tue-13-17.sh
+ch-queue-tue-17-20.sh
+ch-queue-wed-9-13.sh
+ch-queue-wed-13-17.sh
+ch-queue-wed-17-20.sh
+ch-queue-thu-9-13.sh
+ch-queue-thu-13-17.sh
+ch-queue-thu-17-20.sh
+ch-queue-fri-9-13.sh
+ch-queue-fri-13-17.sh
+ch-queue-fri-17-20.sh
+ch-queue-sat-until1500.sh
